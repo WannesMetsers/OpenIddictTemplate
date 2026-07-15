@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|c:\\users\\wannes metsers\\desktop\\portfolio\\websiteprogram\\backend\\authserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|c:\\users\\wannes metsers\\desktop\\portfolio\\websiteprogram\\backend\\authserver\\appsettings.development.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|solutionrelative:appsettings.development.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|c:\\users\\wannes metsers\\desktop\\portfolio\\websiteprogram\\backend\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|c:\\users\\wannes metsers\\desktop\\portfolio\\websiteprogram\\backend\\authserver\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|c:\\users\\wannes metsers\\desktop\\portfolio\\websiteprogram\\backend\\authserver\\appsettings.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDEA2AD0-7A38-5E39-4D33-42404C1F2BB6}|AuthServer.csproj|solutionrelative:appsettings.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T23:38:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T23:01:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T23:26:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T23:00:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Portfolio\\WebsiteProgram\\backend\\AuthServer\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T23:00:04.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
